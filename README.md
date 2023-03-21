@@ -2,9 +2,11 @@
 
 [LinkedIn](https://www.linkedin.com/in/denis-kraevoy) [Telegram](https://t.me/real_thrill) [E-mail](mailto:kraya.work@gmail.com)
 
-
+<br/>
 
 🧐 **More About Me:**
+
+<br/>
 
 🔭   I’m currently working on my new react project
 
@@ -20,13 +22,7 @@
 
 💹   Improving my English
 
-🔨 Languages and Tools:
-
-*    HTML CSS SASS (SCSS) Bootstrap
-*    JavaScript (ES6+) TypeScript
-*    React Redux jQuery
-*    NPM Yarn BABEL WEBpack
-
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thrillu4&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
