@@ -1,5 +1,7 @@
 **Hey 👋, I'm Denys!**
 
+[LinkedIn](https://www.linkedin.com/in/denis-kraevoy) [Telegram](https://t.me/real_thrill) [E-mail](mailto:kraya.work@gmail.com)
+
 
 
 🧐 **More About Me:**
@@ -18,12 +20,6 @@
 
 💹   Improving my English
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thrillu4)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thrillu4&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thrillu4)](https://github.com/thrillu4/github-readme-stats)
-
 🔨 Languages and Tools:
 
 *    HTML CSS SASS (SCSS) Bootstrap
@@ -32,4 +28,5 @@
 *    NPM Yarn BABEL WEBpack
 
 
-[LinkedIn](https://www.linkedin.com/in/denis-kraevoy) [Telegram](https://t.me/real_thrill) [E-mail](kraya.work@gmail.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thrillu4&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
