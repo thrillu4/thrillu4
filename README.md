@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thrillu4&label=Profile%20views&color=0e75b6&style=flat" alt="thrillu4" /> </p>
 
-- 🔭 I’m currently working on **my new react-shop project**
+- 🔭 I’m currently working on **my new react-gym project**
 
 - 🌱 I’m currently learning **Typescript**
 
