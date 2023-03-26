@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 📄 Checkout my [resume](https://drive.google.com/file/d/1ueDHeTWv-3pMm0tpKzLIeQSQW1BOXgxE/view?usp=sharing)
+- 📄 Checkout my [resume](https://drive.google.com/file/d/1moxsX_okAsYIo6K-GDSiLT-mgIxLZfjX/view?usp=sharing)
 
 - 💹 Improving my **English**
 
