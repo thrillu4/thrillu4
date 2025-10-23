@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thrillu4&label=Profile%20views&color=0e75b6&style=flat" alt="thrillu4" /> </p>
 
-- 🔭 I’m currently working on **my new next.js application**
+- 🔭 I’m currently working on **my new full-strack application**
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently looking for a job
 
-- 📄 Checkout my [resume](https://drive.google.com/file/d/1iM9ZFXqhbvflH-f_8ncO1Tgr4an8Zz-Q/view)
+- 📄 Checkout my [resume](https://drive.google.com/file/d/1F87cnCFs0UcbGkX1yDqJoDHyTh1e5bBN/view?usp=sharing)
 
 - 💹 Improving my **English**
 
