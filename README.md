@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently looking for a job
 
-- 📄 Checkout my [resume](https://drive.google.com/file/d/1F87cnCFs0UcbGkX1yDqJoDHyTh1e5bBN/view?usp=sharing)
+- 📄 Checkout my [resume](https://drive.google.com/file/d/17HWvz8bkrxeP3vTESKUxGM-7arjyKiUL/view?usp=sharing)
 
 - 💹 Improving my **English**
 
